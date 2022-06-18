@@ -1,4 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="2px">
+# Hi 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="2">
 
 <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
