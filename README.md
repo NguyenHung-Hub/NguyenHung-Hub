@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+Github+profile!;I'm+a+Front-end+Developer" />
+        <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2BF5AE&size=24&lines=Welcome+to+my+Github+profile!;I'm+a+Front-end+Developer" />
     </a>
 </p>
 
@@ -62,7 +62,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenhung-hub&count_private=true&show_icons=true" />
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=demo"/>
 <br>
 <br>
 <br>
