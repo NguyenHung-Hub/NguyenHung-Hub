@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 
 <p>
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -59,10 +59,10 @@
 
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenhung-hub&count_private=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenhung-hub&count_private=true&show_icons=true&theme=tokyonight" />
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=demo"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=demo&theme=tokyonight"/>
 <br>
 <br>
 <br>
