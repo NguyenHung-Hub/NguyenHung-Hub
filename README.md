@@ -10,7 +10,6 @@
     Skills 
     <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width = "30">
-    <gif-player src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" speed="0.5" play></gif-player>
 </h4>
 
 <p align="left"> 
@@ -57,8 +56,15 @@
     </a>
 </p>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyenhung-hub&theme=dracula)](https://git.io/praveenscience)
 
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenhung-hub&count_private=true&show_icons=true" />
 
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=compact"/>
+<br>
+<br>
+<br>
+
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyenhung-hub&theme=dracula)](https://git.io/praveenscience)
