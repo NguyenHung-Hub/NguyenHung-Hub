@@ -105,12 +105,14 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenhung-hub&count_private=true&show_icons=true&theme=tokyonight" />
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=demo&theme=tokyonight"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhung-hub&layout=demo&theme=tokyonight"/> -->
 <br>
 <br>
 <br>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyenhung-hub&theme=dracula)](https://git.io/praveenscience)
+<!-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nguyenhung-hub&theme=dracula)](https://git.io/praveenscience) -->
+
+<a href="https://app.daily.dev/Husir"><img src="https://api.daily.dev/devcards/d11ebc00b3d44a0f8c9948cb92cbe207.png?r=462" width="400" alt="Nguyen Hung's Dev Card"/></a>
 
 <p align="left">
     
