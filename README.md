@@ -1,3 +1,9 @@
+<style>
+  .a {
+    text-decoration: none;
+  }
+</style>
+
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30" />
 
 <p>
